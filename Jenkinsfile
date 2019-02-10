@@ -5,6 +5,7 @@ pipeline
     {
         build("task1")
     }
+            )
     }
 
     stages {
